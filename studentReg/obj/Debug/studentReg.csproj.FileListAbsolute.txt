@@ -1,0 +1,11 @@
+C:\Users\Zia\source\repos\studentReg\studentReg\bin\Debug\studentReg.exe.config
+C:\Users\Zia\source\repos\studentReg\studentReg\bin\Debug\studentReg.exe
+C:\Users\Zia\source\repos\studentReg\studentReg\bin\Debug\studentReg.pdb
+C:\Users\Zia\source\repos\studentReg\studentReg\obj\Debug\studentReg.csproj.AssemblyReference.cache
+C:\Users\Zia\source\repos\studentReg\studentReg\obj\Debug\studentReg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zia\source\repos\studentReg\studentReg\obj\Debug\studentReg.Form1.resources
+C:\Users\Zia\source\repos\studentReg\studentReg\obj\Debug\studentReg.Properties.Resources.resources
+C:\Users\Zia\source\repos\studentReg\studentReg\obj\Debug\studentReg.csproj.GenerateResource.cache
+C:\Users\Zia\source\repos\studentReg\studentReg\obj\Debug\studentReg.csproj.CoreCompileInputs.cache
+C:\Users\Zia\source\repos\studentReg\studentReg\obj\Debug\studentReg.exe
+C:\Users\Zia\source\repos\studentReg\studentReg\obj\Debug\studentReg.pdb
